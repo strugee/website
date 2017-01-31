@@ -65,8 +65,8 @@ third party clients.
 
 ## Node.js
 
-- [Daplie/letsencrypt-cli](https://gitlab.com/Daplie/letsencrypt-cli)
-- [Daplie/letsencrypt-express](https://gitlab.com/Daplie/letsencrypt-express)
+- [Daplie/letsencrypt-cli](https://git.daplie.com/Daplie/greenlock-cli)
+- [Daplie/letsencrypt-express](https://git.daplie.com/Daplie/greenlock-express)
 
 ## Perl
 
@@ -130,7 +130,7 @@ third party clients.
 
 ## Node.js
 
-- [Daplie/letsencrypt](https://gitlab.com/Daplie/node-letsencrypt)
+- [Daplie/letsencrypt](https://git.daplie.com/Daplie/node-greenlock)
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder/tree/master/test/js)
 
 ## Perl
